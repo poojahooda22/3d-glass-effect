@@ -11,7 +11,7 @@ yarn dev
 # o
 pnpm de
 # o
-bun de
+bun d
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
