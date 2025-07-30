@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development se
+First, run the development s
 np
 Open [http://localhost:3000](http://localhost:3000) with your browser to 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit th
