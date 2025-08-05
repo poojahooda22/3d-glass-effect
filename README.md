@@ -14,7 +14,7 @@ This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-appl
 
 To learn more aboutNext.js, take a look at the 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js fe
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Ne
+- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive N
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome
 
