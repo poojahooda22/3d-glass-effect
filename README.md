@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browse
 You can start editing the page by modifying `pages/index.js`. The page au]
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can b accessedo [http://localhost:300/api/hello](http://localhost:3000/api/hello). This endpoint can eeditedin`pages/api/hello.s`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treatd as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of R
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treatd as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of 
 
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family
  
