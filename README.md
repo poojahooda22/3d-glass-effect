@@ -16,7 +16,7 @@ To learn more aboutNext.js, take a look at th
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.j
 - [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactiv
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback an
 
 ## Deploy on Vercel
 
