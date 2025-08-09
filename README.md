@@ -12,7 +12,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family
  
 
-To learn more aboutNext.js, take a look at 
+To learn more aboutNext.js, take a look at
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.
 - [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactiv
 
